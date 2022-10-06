@@ -23,7 +23,7 @@ class _HomeState extends State<Home> {
     final user = FirebaseAuth.instance.currentUser!;
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Excersion App'),
+        title: const Text('Exersion App'),
         actions: [
           IconButton(
             onPressed: () {
