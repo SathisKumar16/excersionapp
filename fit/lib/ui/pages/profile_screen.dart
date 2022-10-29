@@ -44,7 +44,7 @@ class ProfileScreen extends StatelessWidget {
                         ),
                       ),
                       subtitle: Text(
-                        "Hello, David",
+                        "Hello, Sathish",
                         style: TextStyle(
                           fontWeight: FontWeight.w800,
                           fontSize: 14,
